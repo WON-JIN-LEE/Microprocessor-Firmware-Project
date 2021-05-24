@@ -20,6 +20,6 @@
 
 |  설명  |               작품 사진               |
 | :----: | :-----------------------------------: |
-| 회로도 | [image description](.imgs/회로도.PNG) |
+| 회로도 | ![photo](https://user-images.githubusercontent.com/46555489/119293054-9ec3af80-bc8c-11eb-939d-db57b36678e5.PNG) |
 |  작품  |                 Cell2                 |
 |  작품  |                 Cell2                 |
