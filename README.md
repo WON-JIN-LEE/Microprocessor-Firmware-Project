@@ -18,14 +18,8 @@
 2. 초음파센서( HC-SR04)
 3. 블루투스 (HC-05)
 
-|  설명  |               작품 사진               |
-| :----: | :-----------------------------------: |
-<<<<<<< HEAD
-| 회로도 | [image description](.imgs/result.jpg) |
-|  작품  |                 Cell2                 |
-|  작품  |                 Cell2                 |
-=======
-| 회로도 | ![photo](https://user-images.githubusercontent.com/46555489/119293373-4345f180-bc8d-11eb-833e-c75f9d489cd9.PNG) |
-|  작품  | ![result](https://user-images.githubusercontent.com/46555489/119293376-45a84b80-bc8d-11eb-8fa2-ea9c6dc2aa41.jpg)     |
-|    | ![result-app](https://user-images.githubusercontent.com/46555489/119293381-4640e200-bc8d-11eb-8182-ee97b426e928.jpg)      |
->>>>>>> 2cccc5f237b3769575ee0987e6fc0a4e8a06f1a3
+|  목록  |                                                      작품 사진                                                       |
+| :----: | :------------------------------------------------------------------------------------------------------------------: |
+| 회로도 |   ![photo](https://user-images.githubusercontent.com/46555489/119293373-4345f180-bc8d-11eb-833e-c75f9d489cd9.PNG)    |
+|  작품  |   ![result](https://user-images.githubusercontent.com/46555489/119293376-45a84b80-bc8d-11eb-8fa2-ea9c6dc2aa41.jpg)   |
+|  APP   | ![result-app](https://user-images.githubusercontent.com/46555489/119293381-4640e200-bc8d-11eb-8182-ee97b426e928.jpg) |
