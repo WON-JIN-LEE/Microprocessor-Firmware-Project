@@ -20,6 +20,6 @@
 
 |  설명  |               작품 사진               |
 | :----: | :-----------------------------------: |
-| 회로도 | [image description](.imgs/회로도.PNG) |
+| 회로도 | [image description](.imgs/result.jpg) |
 |  작품  |                 Cell2                 |
 |  작품  |                 Cell2                 |
